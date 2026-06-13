@@ -6,4 +6,6 @@
 
 🌱 Building things that solve real problems
 
-📫 kanaktembhurne@gmail.com · linkedin.com/in/kanaktembhurne
+📫 kanaktembhurne@gmail.com
+
+🔗 linkedin.com/in/kanaktembhurne
